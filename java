@@ -27,7 +27,7 @@ public class QABuddyApplication {
                 <body>
                     <h1>QA Buddy</h1>
                     <form method='post' action='/analyze'>
-                        <textarea name='scenario' rows='6' cols='50'></textarea><br><br>
+                        <textarea name='scenario' rows='7' cols='50'></textarea><br><br>
                         <button type='submit'>Analyze</button>
                     </form>
                 </body>
